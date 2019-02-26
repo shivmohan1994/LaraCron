@@ -48,7 +48,7 @@ APP_NAME="Your project name"
 ```
 ## Making Laravel Auth
 
-Let's create Laravel authentication for your project, run the following command to create <b>Laravel Auth<b>.
+Let's create Laravel authentication for your project, run the following command to create <b>Laravel Auth</b>.
 
 ```php artisan make:auth```
 
