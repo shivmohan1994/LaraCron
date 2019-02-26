@@ -9,7 +9,8 @@
 
 ## LaraCron 
 
-<b>LaraCron<b> is a basic laravel project having cool features of laravel using MySql Database. <b>LaraCron</b> is just a simple mini project having following features:-
+LaraCron is a basic laravel project having cool features of laravel using MySql Database.LaraCron is just a simple mini project having following features:-
+
     
 - [Laravel Installation].
 - [Laravel Authentication].
